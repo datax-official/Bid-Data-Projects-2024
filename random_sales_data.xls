@@ -1,0 +1,101 @@
+Date,Time,City,Item,Total,Payment
+2023-02-07,02:47:33,New York,Phone,1999.51,PayPal
+2023-06-21,10:46:46,New York,Keyboard,1690.17,PayPal
+2023-07-03,09:41:10,New York,Monitor,78.16,Debit Card
+2023-05-30,08:40:31,Los Angeles,Mouse,1641.63,Cash
+2023-02-20,10:38:44,New York,Phone,1499.96,Credit Card
+2023-08-15,13:28:17,New York,Keyboard,775.31,Credit Card
+2023-09-02,08:17:51,New York,Tablet,1387.94,Credit Card
+2023-06-16,03:37:18,Chicago,Monitor,451.94,Cash
+2023-06-09,22:34:33,Phoenix,Phone,1396.37,Debit Card
+2023-12-09,03:57:57,Houston,Tablet,1146.84,Credit Card
+2023-08-07,13:18:34,Los Angeles,Mouse,279.32,Credit Card
+2023-09-07,00:45:05,Houston,Tablet,1588.56,Credit Card
+2023-10-28,15:37:54,Phoenix,Tablet,717.67,PayPal
+2023-09-13,03:32:57,New York,Mouse,1493.67,Credit Card
+2023-03-14,23:07:35,Phoenix,Phone,1380.41,PayPal
+2023-01-08,19:38:20,Phoenix,Monitor,1277.81,Credit Card
+2023-06-15,00:16:21,Chicago,Phone,1963.72,Cash
+2023-12-19,19:17:48,Phoenix,Monitor,984.0,Credit Card
+2023-03-17,15:46:56,Houston,Tablet,756.35,PayPal
+2023-03-10,15:15:39,Los Angeles,Monitor,745.03,Debit Card
+2023-02-21,14:19:36,Phoenix,Phone,1746.93,PayPal
+2023-12-26,17:31:29,Phoenix,Laptop,1224.61,Credit Card
+2023-12-04,22:45:48,Phoenix,Laptop,281.72,Cash
+2023-03-25,01:52:44,Los Angeles,Tablet,1855.83,PayPal
+2023-07-18,00:49:59,Phoenix,Keyboard,200.13,Credit Card
+2023-08-26,11:08:34,Phoenix,Laptop,1407.72,Credit Card
+2023-07-04,00:06:02,Phoenix,Mouse,1749.39,Debit Card
+2023-09-09,07:45:57,Phoenix,Monitor,732.46,PayPal
+2023-02-10,19:45:20,Phoenix,Laptop,266.83,Credit Card
+2023-12-04,13:42:07,New York,Monitor,1343.06,Credit Card
+2023-09-26,10:20:39,Houston,Tablet,1532.11,Debit Card
+2023-05-03,09:34:10,Houston,Monitor,135.81,Cash
+2023-04-09,15:44:02,Houston,Keyboard,1390.46,Debit Card
+2023-12-20,03:29:24,Los Angeles,Phone,588.67,Debit Card
+2023-08-30,21:08:46,New York,Monitor,1041.56,Credit Card
+2023-11-16,21:06:27,New York,Laptop,1049.67,Credit Card
+2023-06-19,20:06:38,New York,Monitor,901.97,Credit Card
+2023-02-21,06:47:11,Phoenix,Phone,1555.9,Credit Card
+2023-06-10,06:07:06,Phoenix,Phone,627.88,PayPal
+2023-01-18,17:10:38,Houston,Tablet,120.06,Cash
+2023-09-10,08:52:03,New York,Phone,282.74,Debit Card
+2023-04-17,09:42:38,New York,Tablet,1809.05,Debit Card
+2023-09-27,09:40:47,Phoenix,Keyboard,1758.7,PayPal
+2023-12-23,07:24:51,Los Angeles,Keyboard,1750.69,Cash
+2023-04-04,07:36:51,Chicago,Keyboard,1870.75,Debit Card
+2023-05-29,23:22:36,Houston,Mouse,169.41,Credit Card
+2023-10-29,11:47:43,Los Angeles,Tablet,230.3,Debit Card
+2023-08-03,21:34:59,New York,Monitor,500.78,Cash
+2023-09-28,13:12:09,New York,Monitor,208.63,PayPal
+2023-12-07,13:07:18,Chicago,Laptop,816.82,Debit Card
+2023-08-01,00:09:55,Los Angeles,Mouse,1925.53,Debit Card
+2023-11-16,03:32:45,Phoenix,Keyboard,1684.1,Cash
+2023-12-19,14:13:25,New York,Mouse,702.4,PayPal
+2023-06-14,09:32:38,Chicago,Phone,1250.92,Debit Card
+2023-01-05,12:55:43,Los Angeles,Keyboard,701.42,PayPal
+2023-01-16,14:33:11,Chicago,Mouse,1284.71,Cash
+2023-08-20,09:19:55,Phoenix,Monitor,151.65,Cash
+2023-01-18,12:36:36,Los Angeles,Keyboard,1368.62,Cash
+2023-02-09,14:17:55,Chicago,Phone,293.42,Debit Card
+2023-01-04,13:30:13,Chicago,Monitor,476.09,Debit Card
+2023-06-04,20:06:17,Los Angeles,Keyboard,948.34,Credit Card
+2023-12-08,12:51:55,Phoenix,Laptop,758.3,Credit Card
+2023-03-31,19:21:06,New York,Monitor,1795.21,Debit Card
+2023-11-17,20:23:33,Houston,Laptop,1770.04,PayPal
+2023-06-06,03:05:10,Houston,Tablet,515.75,Credit Card
+2023-03-29,11:22:16,New York,Phone,244.53,Debit Card
+2023-04-25,14:13:31,Houston,Monitor,1983.73,Debit Card
+2023-04-09,20:24:19,Chicago,Mouse,918.36,Credit Card
+2023-10-18,02:45:21,Los Angeles,Phone,1399.93,PayPal
+2023-04-22,02:23:00,Phoenix,Mouse,322.01,Debit Card
+2023-09-08,23:41:25,Houston,Tablet,1386.44,Debit Card
+2023-06-14,17:54:56,New York,Mouse,1339.33,Cash
+2023-10-14,10:57:45,Houston,Laptop,1683.58,Cash
+2023-03-01,22:33:47,Los Angeles,Tablet,864.88,Cash
+2023-10-11,11:46:44,Los Angeles,Tablet,384.09,Credit Card
+2023-12-08,05:08:11,Houston,Mouse,414.59,Cash
+2023-11-20,03:04:33,Los Angeles,Mouse,73.42,Credit Card
+2023-05-15,10:23:28,Chicago,Phone,805.5,Debit Card
+2023-11-18,07:28:23,Houston,Phone,1243.82,PayPal
+2023-01-30,11:16:41,Houston,Mouse,221.29,PayPal
+2023-04-12,22:57:29,New York,Laptop,1413.72,Debit Card
+2023-09-10,23:26:34,Chicago,Tablet,732.07,PayPal
+2023-10-30,11:57:49,Phoenix,Mouse,1350.3,Debit Card
+2023-04-17,22:55:53,New York,Keyboard,1387.24,Debit Card
+2023-04-08,12:06:03,Houston,Laptop,552.01,Cash
+2023-05-22,18:06:27,Houston,Mouse,1328.18,Cash
+2023-08-03,14:19:37,New York,Laptop,847.66,PayPal
+2023-05-21,19:15:46,Los Angeles,Laptop,944.78,Credit Card
+2023-03-10,12:59:22,Los Angeles,Tablet,1388.8,Debit Card
+2023-07-26,05:05:26,Chicago,Phone,862.76,Credit Card
+2023-07-04,21:45:19,Houston,Tablet,71.38,Cash
+2023-04-20,16:55:27,Houston,Keyboard,615.29,Cash
+2023-06-27,05:46:55,Los Angeles,Phone,443.19,PayPal
+2023-05-27,18:24:45,Houston,Mouse,539.67,Credit Card
+2023-07-27,19:14:39,Chicago,Laptop,745.08,Credit Card
+2023-02-07,22:06:55,Los Angeles,Monitor,337.54,Credit Card
+2023-02-07,02:44:51,Los Angeles,Tablet,480.02,PayPal
+2023-05-24,15:30:15,New York,Monitor,1875.18,Cash
+2023-07-11,19:58:12,New York,Laptop,946.25,PayPal
+2023-04-30,22:57:36,Phoenix,Laptop,108.29,PayPal
